@@ -3,7 +3,7 @@ import React from 'react';
 const QuestionAnswer = () => {
     return (
         <div>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 lg:gap-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4 lg:gap-8 my-6">
             <div class="bg-white rounded-lg shadow-md p-4 md:p-6 lg:p-8">
               <h2 class="font-bold text-xl mb-2 md:mb-4">Question 1</h2>
               <p class="text-gray-700 mb-4 md:mb-6 lg:mb-8">What is the difference between Props and state?</p>

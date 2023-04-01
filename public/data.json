@@ -5,10 +5,9 @@
         "blogTitle": "With beautifully designed apps, websites, and contents that help blogger",
         "blogCoverImage": "https://images.unsplash.com/photo-1623627484632-f041d1fb366d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y292ZXIlMjBwaG90b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
         "authorImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
-        "readTime": "05 min read",
+        "readTime": "05",
         "bookMark": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ILGXhWBIIJauHVD6Z3jGXBR5VOOfd72MsFoAhp4&s",
-        "publishDate": "Mar 14 (4 Days ago)",
-        "aboutRead": "Mark as read"
+        "publishDate": "Mar 14 (4 Days ago)"
     },
     {
         "id": 2,
@@ -16,10 +15,9 @@
         "blogTitle": "Scenarios and computer models which the PBL to explore such future pathways, presented in interactive maps and graphs.",
         "blogCoverImage": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y292ZXIlMjBwaG90b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
         "authorImage":"https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
-        "readTime": "10 min read",
+        "readTime": "10",
         "bookMark": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ILGXhWBIIJauHVD6Z3jGXBR5VOOfd72MsFoAhp4&s",
-        "publishDate": "Mar 14 (4 Days ago)",
-        "aboutRead": "Mark as read"
+        "publishDate": "Mar 14 (4 Days ago)"
     },
     {
         "id": 3,
@@ -27,10 +25,9 @@
         "blogTitle": "Scenarios are powerful tools to envision how nature might respond to different pathways of future human development and policy choices",
         "blogCoverImage": "https://images.unsplash.com/photo-1625579293382-1a733ee8db0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
         "authorImage": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
-        "readTime":" 15 min read",
+        "readTime":" 15",
         "bookMark": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ILGXhWBIIJauHVD6Z3jGXBR5VOOfd72MsFoAhp4&s",
-        "publishDate": "Mar 14 (4 Days ago)",
-        "aboutRead": "Mark as read"
+        "publishDate": "Mar 14 (4 Days ago)"
     },
     {
         "id": 4,
@@ -38,9 +35,8 @@
         "blogTitle":" Scenario analysis is a useful tool to facilitate discussions about the main trends of future change and to promote the understanding of global environmental changes implications on relevant aspects of sustainability.",
         "blogCoverImage": "https://images.unsplash.com/photo-1540544660406-6a69dacb2804?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTZ8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
         "authorImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
-        "readTime": "20 min read",
+        "readTime": "20",
         "bookMark": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ILGXhWBIIJauHVD6Z3jGXBR5VOOfd72MsFoAhp4&s",
-        "publishDate": "Mar 14 (4 Days ago)",
-        "aboutRead": "Mark as read"
+        "publishDate": "Mar 14 (4 Days ago)"
     }
 ]
